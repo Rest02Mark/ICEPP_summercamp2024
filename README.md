@@ -1,4 +1,8 @@
 # ICEPP_summercamp2024
-令和6年度ICEPP量子研究サマーキャンプに参加した際に開発したコード
+令和6年度ICEPP量子研究サマーキャンプ<https://www.icepp.s.u-tokyo.ac.jp/collaboration/quantum-summercamp.html>に参加した際に開発した量子機械学習に関するコード
 
-量子機械学習のための量子データセット[NTangled Datasets](https://github.com/LSchatzki/NTangled_Datasets?tab=readme-ov-file#ntangled-datasets)
+# 含まれるコード
+
+* [NTangled Datasets](https://github.com/LSchatzki/NTangled_Datasets?tab=readme-ov-file#ntangled-datasets)データセット生成コード
+* Ntangled Datasetsを用いた量子機械学習モデル
+
