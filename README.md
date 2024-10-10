@@ -6,3 +6,8 @@
 * [NTangled Datasets](https://github.com/LSchatzki/NTangled_Datasets?tab=readme-ov-file#ntangled-datasets)データセット生成コード
 * Ntangled Datasetsを用いた量子機械学習モデル
 
+## Ntangled Datasets データセット生成コード
+
+## Ntangled Datasetsを用いた量子機械学習モデル
+
+作成したデータセットに対し、2値分類を行う量子機械学習モデル。
