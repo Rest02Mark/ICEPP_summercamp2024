@@ -1,5 +1,5 @@
 # ICEPP_summercamp2024
-令和6年度ICEPP量子研究サマーキャンプ<https://www.icepp.s.u-tokyo.ac.jp/collaboration/quantum-summercamp.html>に参加した際に開発した量子機械学習に関するコード
+令和6年度ICEPP量子研究サマーキャンプ<https://www.icepp.s.u-tokyo.ac.jp/collaboration/quantum-summercamp.html>に参加した際に開発したコード
 
 # 含まれるコード
 
