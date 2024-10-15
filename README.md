@@ -11,7 +11,7 @@
 
 二値分類を行うための教師付き量子データセット[NTangled Datasets](https://github.com/LSchatzki/NTangled_Datasets?tab=readme-ov-file#ntangled-datasets)を作成する。
 
-ランダムな積状態に対し、Ntangled Datasetsで紹介されているパラメータ付き量子回路を作用させることで、特定の[Concentratable Entropy(CE)](https://arxiv.org/abs/2104.06923)（エントロピーの強さを示す指標の一つ）値を持つエンタングルメント状態を作ることができる。
+ランダムな積状態に対し、Ntangled Datasetsのリポジトリ内で示されているパラメータ付き量子回路を作用させることで、特定の[Concentratable Entropy(CE)](https://arxiv.org/abs/2104.06923)（エントロピーの強さを示す指標の一つ）の値を持つエンタングルメント状態を作ることができる。
 
 元のリポジトリでは、3種のパラメータ付き量子回路の構成とそのパラメータの値のみが与えられていた。
 そこで、本リポジトリは3種の量子回路の内、Hardware Efficent(HWE)回路の実装、回路の作用によって作られるエンタングル状態のCEの値の分布の可視化、量子機械学習のためのデータセットとしての出力を行うコードを含む。
