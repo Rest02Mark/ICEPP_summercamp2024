@@ -9,8 +9,8 @@
 
 ## 2値分類問題のための[NTangled Datasets](https://github.com/LSchatzki/NTangled_Datasets?tab=readme-ov-file#ntangled-datasets)を作成するためのコード
 
-二値分類を行うための教師付き量子データセットを作成する。
-量子データセットは[NTangled Datasets](https://github.com/LSchatzki/NTangled_Datasets?tab=readme-ov-file#ntangled-datasets)を基に作成する。
+二値分類を行うための教師付き量子データセット[NTangled Datasets](https://github.com/LSchatzki/NTangled_Datasets?tab=readme-ov-file#ntangled-datasets)を作成する。
+
 ランダムな積状態に対し、Ntangled Datasetsで紹介されているパラメータ付き量子回路を作用させることで、特定の[Concentratable Entropy(CE)](https://arxiv.org/abs/2104.06923)（エントロピーの強さを示す指標の一つ）値を持つエンタングルメント状態を作ることができる。
 
 元のリポジトリでは、3種のパラメータ付き量子回路の構成とそのパラメータの値のみが与えられていた。
