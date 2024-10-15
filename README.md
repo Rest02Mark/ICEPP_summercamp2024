@@ -1,6 +1,6 @@
 # ICEPP_summercamp2024
 
-本リポジトリは、令和6年度ICEPP量子研究サマーキャンプ<https://www.icepp.s.u-tokyo.ac.jp/collaboration/quantum-summercamp.html>に参加した際に開発したコードを含む。
+本リポジトリは、東京大学素粒子物理国際研究センター令和6年度ICEPP量子研究サマーキャンプ<https://www.icepp.s.u-tokyo.ac.jp/collaboration/quantum-summercamp.html>に参加した際に開発したコードを含む。
 
 # 本リポジトリに含まれるコード
 
