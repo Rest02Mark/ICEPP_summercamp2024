@@ -36,7 +36,7 @@
 
 
 ## 2種の量子機械学習モデル
-Ntangled Datasetsを用いる量子機械学習モデルとして、[StronglyEntagnlingLayers](https://docs.pennylane.ai/en/stable/code/api/pennylane.StronglyEntanglingLayers.html)と[Quantum Convolutional Neural Networks(QCNN)](https://www.tensorflow.org/quantum/tutorials/qcnn?hl=ja)の2種のモデルを含む.エポックごとの損失と,学習後のテストデータに対する正答率を出力する.
+Ntangled Datasetsを用いる量子機械学習モデルとして,[StronglyEntagnlingLayers](https://docs.pennylane.ai/en/stable/code/api/pennylane.StronglyEntanglingLayers.html)と[Quantum Convolutional Neural Networks(QCNN)](https://www.tensorflow.org/quantum/tutorials/qcnn?hl=ja)の2種のモデルを含む.エポックごとの損失と,学習後のテストデータに対する正答率を出力を確認できる.
 
 
 ![](image/sea.png)
